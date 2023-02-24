@@ -6,5 +6,3 @@ echo "print your hostname"
 hostname
 echo "print the server disc space"
 df -h
-echo "ping if server is up or down"
-ping $(hostname)
